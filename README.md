@@ -20,8 +20,5 @@ Here are some of the projects I've worked on:
 - 🎮 [**Catch_the_ball**](https://github.com/user5012/Catch_the_ball)
 - 🧮 [**HTML-Calculator**](https://github.com/user5012/HTML-Calculator)
 
-## 📈 GitHub Stats
-![Kyrma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=user5012&show_icons=true&theme=default&hide_border=true)
-
 ## 📫 Contact Me
 📧 kmamais100@gmail.com
